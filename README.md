@@ -2,7 +2,7 @@
 
 En este repositorio se encuentra el proyecto propuesto por el Profesor Jorge Enrique Amaya Cala en la Universidad Nacional de Colombia.
 
-Proyecto inicialmente estaba escrito en el lenguaje de programacion c++, este se reescribio y con esto se mejora. Adicionalmente se escribe en java y c con este ultimo utilizando programacion estructurada.
+Proyecto inicialmente estaba escrito en el lenguaje de programacion c++, este se reescribio y con esto se mejora. Adicionalmente se escribe en java y c con este ultimo se utiliza programacion estructurada.
 
 El proyecto es un juego que utiliza los conceptos de programacion orientada en objetos, cada uno contiene las siguiente caracteristicas:
 
@@ -10,4 +10,4 @@ El proyecto es un juego que utiliza los conceptos de programacion orientada en o
 * **Drunk Driver - Classes:** escrito en c++, se ejecuta en linux y se utiliza la libreria ncurses
 * **Drunk Driver - Java - Interface:** escrito en java, es multiplataforma y utiliza la libreria jsfml ya incluida
 
-
+Las description del proyecto esta en el archivo proyecto.pdf
