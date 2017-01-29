@@ -9,5 +9,6 @@ El proyecto es un juego que utiliza los conceptos de programacion orientada en o
 * **Drunk Driver - Dynamic memory management:** escrito en c, se ejetuta en linux y se utiliza la libreria ncurses
 * **Drunk Driver - Classes:** escrito en c++, se ejecuta en linux y se utiliza la libreria ncurses
 * **Drunk Driver - Java - Interface:** escrito en java, es multiplataforma y utiliza la libreria jsfml ya incluida
+* **JS** escrito en JavaScript e interpretado por NodeJS. 
 
 Las description del proyecto esta en el archivo proyecto.pdf
